@@ -1,0 +1,4 @@
+applications:
+-   name: Flow
+    command: npm start
+    buildpack: https://github.com/cloudfoundry/nodejs-buildpack
